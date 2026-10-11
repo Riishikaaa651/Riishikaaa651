@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey there 👋
 
 <!--
 **Riishikaaa651/Riishikaaa651** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
