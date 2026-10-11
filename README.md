@@ -1,4 +1,3 @@
-## Hey there, I'm Rishika Jain👋
 <!-- ============ HEADER ============ -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:bb9af7&height=200&section=header&text=Rishika%20Jain&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20%7C%20Python%20%7C%20Machine%20Learning&descAlignY=58&descSize=18" alt="Header" />
