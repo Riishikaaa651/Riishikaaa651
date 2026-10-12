@@ -92,7 +92,9 @@ I'm a **B.Tech (Information Technology)** graduate from Medicaps University, Ind
 ### 📈 Contribution Activity
 
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Riishikaaa651&theme=tokyonight" alt="Profile details and contribution graph" />
+  <a href="https://github.com/Riishikaaa651">
+    <img width="100%" src="https://ghchart.rshah.org/7aa2f7/Riishikaaa651" alt="Rishika's GitHub contribution chart" />
+  </a>
 </p>
 
 ---
