@@ -93,7 +93,7 @@ I'm a **B.Tech (Information Technology)** graduate from Medicaps University, Ind
 
 <p align="center">
   <a href="https://github.com/Riishikaaa651">
-    <img width="100%" src="https://ghchart.rshah.org/7aa2f7/Riishikaaa651" alt="Rishika's GitHub contribution chart" />
+    <img width="100%" src="https://raw.githubusercontent.com/Riishikaaa651/Riishikaaa651/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
   </a>
 </p>
 
