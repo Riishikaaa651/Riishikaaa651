@@ -1,6 +1,6 @@
 <!-- ============ HEADER ============ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:bb9af7&height=200&section=header&text=Rishika%20Jain&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20%7C%20Python%20%7C%20Machine%20Learning&descAlignY=58&descSize=18" alt="Header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:bb9af7&height=220&section=header&text=Rishika%20Jain&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Data%20Analyst%20%7C%20Python%20Developer%20%7C%20ML%20Enthusiast&descAlignY=56&descSize=18" alt="Rishika Jain" />
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Riishikaaa651&label=Profile%20Views&color=7aa2f7&style=flat" alt="Profile views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Riishikaaa651.Riishikaaa651&left_text=Profile%20Views&left_color=%23555555&right_color=%237aa2f7" alt="Profile views" />
   <a href="https://github.com/Riishikaaa651?tab=followers"><img src="https://img.shields.io/github/followers/Riishikaaa651?label=Followers&style=flat&color=bb9af7&logo=github" alt="Followers" /></a>
   <a href="https://github.com/Riishikaaa651?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FRiishikaaa651&query=%24.public_repos&label=Public%20Repos&style=flat&color=9ece6a&logo=github" alt="Total repos" /></a>
   <a href="https://github.com/Riishikaaa651?tab=repositories&sort=stargazers"><img src="https://img.shields.io/github/stars/Riishikaaa651?affiliations=OWNER&label=Stars%20Earned&style=flat&color=e0af68&logo=github" alt="Stars earned" /></a>
@@ -114,5 +114,9 @@ I'm a **B.Tech (Information Technology)** graduate from Medicaps University, Ind
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:bb9af7,100:7aa2f7&height=120&section=footer" alt="Footer" />
+  <i>Thanks for stopping by! ⭐ Feel free to explore my repositories.</i>
+</p>
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:bb9af7&height=140&section=footer&reversal=true" alt="Footer" />
 </p>
