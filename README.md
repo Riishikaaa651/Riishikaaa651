@@ -89,14 +89,6 @@ I'm a **B.Tech (Information Technology)** graduate from Medicaps University, Ind
   <img src="https://streak-stats.demolab.com/?user=Riishikaaa651&theme=tokyonight&hide_border=true" alt="Contribution Streak" />
 </p>
 
-### 📈 Contribution Activity
-
-<p align="center">
-  <a href="https://github.com/Riishikaaa651">
-    <img width="100%" src="https://raw.githubusercontent.com/Riishikaaa651/Riishikaaa651/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
-  </a>
-</p>
-
 ---
 
 ## 📜 Certifications
