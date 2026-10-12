@@ -33,52 +33,11 @@ I'm a **B.Tech (Information Technology)** graduate from Medicaps University, Ind
 
 ## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/Riishikaaa651/supply-chain-intelligence">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Riishikaaa651&repo=supply-chain-intelligence&theme=tokyonight&hide_border=true" alt="Supply Chain Intelligence" />
-  </a>
-  <a href="https://github.com/Riishikaaa651/Aero-Nova">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Riishikaaa651&repo=Aero-Nova&theme=tokyonight&hide_border=true" alt="Aero-Nova" />
-  </a>
-  <a href="https://github.com/Riishikaaa651/Patient_Satisfaction_Survey_Analysis">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Riishikaaa651&repo=Patient_Satisfaction_Survey_Analysis&theme=tokyonight&hide_border=true" alt="Patient Satisfaction Survey Analysis" />
-  </a>
-</p>
-
-<details>
-<summary><b>📦 Supply Chain Decision Intelligence Platform</b> <i>(in progress)</i></summary>
-<br>
-
-- Cleaned a **170K+ record** supply chain dataset and ran EDA across key business areas
-- Engineered features like lead time, seasonal trends, and supplier reliability
-- Compared Logistic Regression, Random Forest, and XGBoost, reaching **87%** on shipment delay prediction
-- Saved the trained model with Joblib for backend API integration
-
-**Stack:** Python · Pandas · NumPy · Scikit-learn · XGBoost · Matplotlib
-</details>
-
-<details>
-<summary><b>🌫️ Aero-Nova: AI-Driven Air Quality & Mobility Nowcasting</b></summary>
-<br>
-
-- Forecasts **Air Quality Index (AQI)** by combining weather, traffic, and industrial emissions data
-- Builds and evaluates **XGBoost** models for pollution prediction
-- Streamlit + Plotly dashboard for AQI and pollution trends, with SQL for data storage
-
-**Stack:** Python · Streamlit · SQL · XGBoost · Plotly
-</details>
-
-<details>
-<summary><b>🏥 Patient Satisfaction Intelligence Platform</b></summary>
-<br>
-
-- Validates and analyzes patient feedback from **CSV and PDF** files
-- **VADER** sentiment engine tested across 8 hospital departments
-- Interactive Streamlit dashboard with Plotly charts
-- Automated workflow cut processing time from **hours to ~3 seconds**
-
-**Stack:** Python · Streamlit · Pandas · VADER · pdfplumber · Sumy · Plotly
-</details>
+| Project | Description | Stack |
+|:---|:---|:---|
+| [Supply Chain Decision Intelligence](https://github.com/Riishikaaa651/supply-chain-intelligence) | Shipment delay prediction on 170K+ records with 87% accuracy *(in progress)* | Python, Pandas, Scikit-learn, XGBoost |
+| [Aero-Nova](https://github.com/Riishikaaa651/Aero-Nova) | AI-driven air quality (AQI) and mobility nowcasting | Python, XGBoost, Streamlit, SQL, Plotly |
+| [Patient Satisfaction Intelligence](https://github.com/Riishikaaa651/Patient_Satisfaction_Survey_Analysis) | Sentiment analysis of hospital feedback, cutting processing from hours to 3 seconds | Python, VADER, Streamlit, Plotly |
 
 ---
 
