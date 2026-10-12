@@ -133,41 +133,7 @@ I'm a **B.Tech (Information Technology)** graduate from Medicaps University, Ind
 ### 📈 Contribution Activity
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Riishikaaa651&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph" />
-</p>
-
-### 🧾 Profile Summary & Commit Insights
-
-<p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Riishikaaa651&theme=tokyonight" alt="Profile details" />
-</p>
-
-<p align="center">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Riishikaaa651&theme=tokyonight" alt="Repos per language" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Riishikaaa651&theme=tokyonight" alt="Most commit language" />
-</p>
-
-<p align="center">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Riishikaaa651&theme=tokyonight" alt="Stats" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Riishikaaa651&theme=tokyonight&utcOffset=5.5" alt="Productive time" />
-</p>
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Riishikaaa651/Riishikaaa651/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Riishikaaa651/Riishikaaa651/output/github-snake.svg" />
-    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Riishikaaa651/Riishikaaa651/output/github-snake-dark.svg" />
-  </picture>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Riishikaaa651&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=6" alt="GitHub Trophies" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Riishikaaa651&theme=tokyonight" alt="Profile details and contribution graph" />
 </p>
 
 ---
